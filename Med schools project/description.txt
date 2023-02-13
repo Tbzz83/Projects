@@ -1,0 +1,2 @@
+A simple program that allows you to access med schools based on an upper and lower MCAT score range. 
+Also allows you to filter based on if you are an international or not

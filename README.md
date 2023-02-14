@@ -1,2 +1,2 @@
-# Projects
-A home for any past and in progress projects
+# Misc
+A home for any misc projects 
